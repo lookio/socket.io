@@ -17,6 +17,7 @@
     }
   , "dependencies": {
         "socket.io-client": "0.9.11"
+      , "ws" : "0.4.x"
       , "policyfile": "0.0.4"
       , "base64id": "0.1.0"
     }
